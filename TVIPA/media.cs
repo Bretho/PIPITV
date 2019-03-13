@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TVIPA
 {
-    class media
+    public class media
     {
         private string _name;
 

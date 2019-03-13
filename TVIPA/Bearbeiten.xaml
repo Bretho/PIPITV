@@ -5,15 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TVIPA"
         mc:Ignorable="d"
-        Title="Bearbeiten" Height="138.655" Width="321.009">
+        Title="Bearbeiten" Height="168.655" Width="571.009">
     <Grid>
-        <TextBox x:Name="name" HorizontalAlignment="Left" Height="23" Margin="67,14,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="138"/>
-        <TextBox x:Name="logo" HorizontalAlignment="Left" Height="23" Margin="67,76,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="138"/>
-        <TextBox x:Name="gruppe" HorizontalAlignment="Left" Height="23" Margin="67,45,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="138"/>
+        <TextBox x:Name="name" HorizontalAlignment="Left" Height="23" Margin="67,14,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="383"/>
+        <TextBox x:Name="logo" HorizontalAlignment="Left" Height="23" Margin="67,76,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="383"/>
+        <TextBox x:Name="gruppe" HorizontalAlignment="Left" Height="23" Margin="67,45,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="383"/>
         <Label Content="Gruppe:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
         <Label Content="Name:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label Content="Logo:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
         <Button Content="Speichern" Margin="0,0,10,10" Click="Button_Click" Height="20" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="75"/>
+        <TextBox x:Name="link" HorizontalAlignment="Left" Height="23" Margin="67,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="383"/>
+        <Label Content="Link:" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

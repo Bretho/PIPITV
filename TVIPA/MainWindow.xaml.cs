@@ -38,24 +38,32 @@ namespace TVIPA
             {
                 io.csv.csvRead(openFileDialog.FileName, io.m1);
                 Combi.ItemsSource = io.m1.medialist;
+                aktualisieren.IsEnabled = true;
             }
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void Bearbeiten(object sender, RoutedEventArgs e)
         {
             Bearbeiten b = new Bearbeiten();
             media change = new media();
             b.Show();
-            change = io.m1.mediaauswahl((media)Combi.SelectedValue, io.m1.medialist);
+            change = io.m1.mediaauswahl((media)Combi.SelectedValue);
+            b.holder = change;
             b.name.Text = change.name;
             b.gruppe.Text = change.group;
             b.logo.Text = change.logo;
+            b.link.Text = change.link;
             this.Close();
         }
 
         private void Combi_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             bearbeitung.IsEnabled = true;
+        }
+
+        private void Aktualisieren(object sender, RoutedEventArgs e)
+        {
+            Combi.ItemsSource = io.m1.medialist;
         }
     }
 }

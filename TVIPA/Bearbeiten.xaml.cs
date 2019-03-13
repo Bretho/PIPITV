@@ -20,6 +20,7 @@ namespace TVIPA
     public partial class Bearbeiten : Window
     {
         IOController io = IOController.instance;
+        public media holder = null;
 
         public Bearbeiten()
         {
@@ -28,7 +29,7 @@ namespace TVIPA
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            io.m1.mediaersatz(holder, name.ToString(), logo.ToString(),link.ToString(),gruppe.ToString());
         }
     }
 }

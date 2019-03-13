@@ -9,7 +9,8 @@
     <Grid>
         <Button Content="CSV-Lesen" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
         <DataGrid x:Name="Combi" Margin="90,10,10,10" SelectionChanged="Combi_SelectionChanged"/>
-        <Button x:Name="bearbeitung" Content="Bearbeiten" HorizontalAlignment="Left" Height="21" Margin="10,35,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" IsEnabled="False"/>
+        <Button x:Name="bearbeitung" Content="Bearbeiten" HorizontalAlignment="Left" Height="21" Margin="10,35,0,0" VerticalAlignment="Top" Width="75" Click="Bearbeiten" IsEnabled="False"/>
+        <Button x:Name="aktualisieren" Content="Aktualisieren" HorizontalAlignment="Left" Height="21" Margin="10,61,0,0" VerticalAlignment="Top" Width="75" Click="Aktualisieren" IsEnabled="False"/>
 
     </Grid>
 </Window>
