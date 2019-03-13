@@ -8,7 +8,7 @@ namespace TVIPA
 {
     class mediaManager
     {
-        private List<media> _medialist;
+        private List<media> _medialist = new List<media>();
 
         public List<media> medialist
         {

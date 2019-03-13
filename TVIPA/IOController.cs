@@ -20,7 +20,7 @@ namespace TVIPA
             }
         }
 
-        private mediaManager _m1;
+        private mediaManager _m1 = new mediaManager();
 
         public mediaManager m1
         {
@@ -28,7 +28,7 @@ namespace TVIPA
             set { _m1 = value; }
         }
 
-        private CSV_Converter _csv;
+        private CSV_Converter _csv = new CSV_Converter();
 
         public CSV_Converter csv
         {
