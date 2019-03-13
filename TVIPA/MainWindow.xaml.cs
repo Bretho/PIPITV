@@ -16,7 +16,7 @@ using Microsoft.Win32;
 using System.Data;
 using System.IO;
 
-namespace TVIPA
+namespace PIPITV
 {
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml

@@ -1,9 +1,9 @@
-﻿<Window x:Class="TVIPA.Bearbeiten"
+﻿<Window x:Class="PIPITV.Bearbeiten"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:TVIPA"
+        xmlns:local="clr-namespace:PIPITV"
         mc:Ignorable="d"
         Title="Bearbeiten" Height="168.655" Width="571.009">
     <Grid>
