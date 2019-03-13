@@ -16,12 +16,12 @@ namespace TVIPA
             set { _medialist = value; }
         }
 
-        public media mediaauswahl(string name, List<media> medialist)
+        public media mediaauswahl(media ubergabe, List<media> medialist)
         {
             media m2 = new media();
             for (int i = 0; i < medialist.Count; i++)
             {
-                if (medialist[i].name == name)
+                if (medialist[i].name == ubergabe.name)
                 {
                     m2.name = medialist[i].name;
                     m2.logo = medialist[i].logo;

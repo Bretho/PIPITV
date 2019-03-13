@@ -45,7 +45,8 @@ namespace TVIPA
         {
             Bearbeiten b = new Bearbeiten();
             media change = new media();
-            change = io.m1.mediaauswahl(Combi.SelectedItem.ToString(), io.m1.medialist);
+            b.Show();
+            change = io.m1.mediaauswahl((media)Combi.SelectedValue, io.m1.medialist);
             b.name.Text = change.name;
             b.gruppe.Text = change.group;
             b.logo.Text = change.logo;
