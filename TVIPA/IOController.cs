@@ -36,7 +36,13 @@ namespace PIPITV
             set { _csv = value; }
         }
 
+        private MediaListSerializer _martin = new MediaListSerializer();
 
+        public MediaListSerializer martin
+        {
+            get { return _martin; }
+            set { _martin = value; }
+        }
 
     }
 }

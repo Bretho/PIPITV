@@ -30,7 +30,7 @@ namespace PIPITV
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Auswahl_Click(object sender, RoutedEventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Filter = "CSV Dateien (*.csv)|*.csv";
@@ -64,6 +64,17 @@ namespace PIPITV
         private void Aktualisieren(object sender, RoutedEventArgs e)
         {
             Combi.ItemsSource = io.m1.medialist;
+        }
+
+        private void export_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog speichern = new SaveFileDialog();
+            speichern.Filter = "XML-Datei (*.xml)|*.xml";
+       
+            if (speichern.ShowDialog() == true)
+            {
+                io.martin.Serialisieren(speichern.FileName, io.m1.medialist);
+            }
         }
     }
 }

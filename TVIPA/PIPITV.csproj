@@ -59,6 +59,7 @@
       <DependentUpon>Bearbeiten.xaml</DependentUpon>
     </Compile>
     <Compile Include="IOController.cs" />
+    <Compile Include="MediaListSerializer.cs" />
     <Compile Include="mediaManager.cs" />
     <Compile Include="media.cs" />
     <Page Include="Bearbeiten.xaml">
