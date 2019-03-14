@@ -39,7 +39,8 @@ namespace PIPITV
                 io.csv.csvRead(openFileDialog.FileName, io.m1);
                 Combi.ItemsSource = io.m1.medialist;
                 aktualisieren.IsEnabled = true;
-            }
+                export.IsEnabled = true;
+            }         
         }
 
         private void Bearbeiten(object sender, RoutedEventArgs e)
