@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PIPITV"
         mc:Ignorable="d"
-        Title="Bearbeiten" Height="168.655" Width="555.891">
+        Title="Bearbeiten" Height="175.742" Width="555.891">
     <Grid>
         <TextBox x:Name="name" HorizontalAlignment="Left" Height="23" Margin="67,14,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="383"/>
         <TextBox x:Name="logo" HorizontalAlignment="Left" Height="23" Margin="67,76,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="383"/>

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PIPITV"
         mc:Ignorable="d"
-        Title="MainWindow" Height="260.748" Width="491.588">
+        Title="MainWindow" Height="270.243" Width="1018.197">
     <Grid>
         <Button Content="CSV-Lesen" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Auswahl_Click"/>
         <DataGrid x:Name="Combi" Margin="90,10,10,10" SelectionChanged="Combi_SelectionChanged"/>

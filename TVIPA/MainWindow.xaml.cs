@@ -54,7 +54,6 @@ namespace PIPITV
             b.gruppe.Text = change.group;
             b.logo.Text = change.logo;
             b.link.Text = change.link;
-            this.Close();
         }
 
         private void Combi_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -64,7 +63,7 @@ namespace PIPITV
 
         private void Aktualisieren(object sender, RoutedEventArgs e)
         {
-            Combi.ItemsSource = io.m1.medialist;
+            Combi.Items.Refresh();
         }
 
         private void export_Click(object sender, RoutedEventArgs e)

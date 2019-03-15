@@ -29,7 +29,7 @@ namespace PIPITV
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            io.m1.mediaersatz(holder, name.ToString(), logo.ToString(),link.ToString(),gruppe.ToString());
+            io.m1.mediaersatz(holder, name.Text, logo.Text,link.Text,gruppe.Text);
         }
     }
 }
