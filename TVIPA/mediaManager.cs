@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
 namespace PIPITV
 {
     class mediaManager
     {
+        private DB_Connection _dbc = new DB_Connection();
         private List<media> _medialist = new List<media>();
 
         public List<media> medialist
@@ -45,6 +47,26 @@ namespace PIPITV
                     medialist[i].group = groupu;
                 }
             }
+        }
+
+        public void getMedia()
+        {
+            DataTable dt = new DataTable();
+            string qry = "SELECT * FROM tbl_Movement";
+            _dbc.conOpen();
+            dt = _dbc.getData(qry);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                media m = new media();
+                m.name = dt.Rows[i]["Name"].ToString();
+                m.logo = dt.Rows[i]["Logo"].ToString();
+                m.link = dt.Rows[i]["Link"].ToString();
+                m.group = dt.Rows[i]["Gruppe"].ToString();
+                medialist.Add(m);
+
+            }
+            _dbc.conClose();
         }
 
     }

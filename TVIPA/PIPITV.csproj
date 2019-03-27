@@ -58,6 +58,7 @@
     <Compile Include="Bearbeiten.xaml.cs">
       <DependentUpon>Bearbeiten.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DB_Connection.cs" />
     <Compile Include="IOController.cs" />
     <Compile Include="MediaListSerializer.cs" />
     <Compile Include="mediaManager.cs" />
