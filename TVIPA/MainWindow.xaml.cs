@@ -76,5 +76,18 @@ namespace PIPITV
                 io.martin.Serialisieren(speichern.FileName, io.m1.medialist);
             }
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog einlesen = new OpenFileDialog();
+            einlesen.Filter = "XML-Datei (*.xml)|*.xml";
+            if (einlesen.ShowDialog() == true)
+            {
+                io.m1.medialist = io.martin.Deserialisieren(einlesen.FileName, io.m1.medialist);
+                Combi.ItemsSource = io.m1.medialist;
+                aktualisieren.IsEnabled = true;
+                export.IsEnabled = true;
+            }
+        }
     }
 }
