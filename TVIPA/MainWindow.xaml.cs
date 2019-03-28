@@ -50,10 +50,10 @@ namespace PIPITV
             b.Show();
             change = io.m1.mediaauswahl((media)Combi.SelectedValue);
             b.holder = change;
-            b.name.Text = change.name;
-            b.gruppe.Text = change.group;
-            b.logo.Text = change.logo;
-            b.link.Text = change.link;
+            b.name.Text = change.Name;
+            b.gruppe.Text = change.Gruppe;
+            b.logo.Text = change.Logo;
+            b.link.Text = change.Link;
         }
 
         private void Combi_SelectionChanged(object sender, SelectionChangedEventArgs e)

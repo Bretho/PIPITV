@@ -23,12 +23,12 @@ namespace PIPITV
             media m2 = new media();
             for (int i = 0; i < medialist.Count; i++)
             {
-                if (medialist[i].name == ubergabe.name)
+                if (medialist[i].Name == ubergabe.Name)
                 {
-                    m2.name = medialist[i].name;
-                    m2.logo = medialist[i].logo;
-                    m2.link = medialist[i].link;
-                    m2.group = medialist[i].group;
+                    m2.Name = medialist[i].Name;
+                    m2.Logo = medialist[i].Logo;
+                    m2.Link = medialist[i].Link;
+                    m2.Gruppe = medialist[i].Gruppe;
                     return m2;
                 }
             }
@@ -39,12 +39,12 @@ namespace PIPITV
         {
             for (int i = 0; i < medialist.Count; i++)
             {
-                if (medialist[i].name == ubergabe.name)
+                if (medialist[i].Name == ubergabe.Name)
                 {
-                    medialist[i].name = nameu;
-                    medialist[i].logo = logou;
-                    medialist[i].link = linku;
-                    medialist[i].group = groupu;
+                    medialist[i].Name = nameu;
+                    medialist[i].Logo = logou;
+                    medialist[i].Link = linku;
+                    medialist[i].Gruppe = groupu;
                 }
             }
         }
@@ -59,10 +59,10 @@ namespace PIPITV
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 media m = new media();
-                m.name = dt.Rows[i]["Name"].ToString();
-                m.logo = dt.Rows[i]["Logo"].ToString();
-                m.link = dt.Rows[i]["Link"].ToString();
-                m.group = dt.Rows[i]["Gruppe"].ToString();
+                m.Name = dt.Rows[i]["Name"].ToString();
+                m.Logo = dt.Rows[i]["Logo"].ToString();
+                m.Link = dt.Rows[i]["Link"].ToString();
+                m.Gruppe = dt.Rows[i]["Gruppe"].ToString();
                 medialist.Add(m);
 
             }

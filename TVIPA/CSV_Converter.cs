@@ -26,13 +26,13 @@ namespace PIPITV
                 if (counter % 2 != 0)
                 {
                     mediasv = new media();
-                    mediasv.name = items[1];
-                    mediasv.group = items[5];
-                    mediasv.logo = items[7];
+                    mediasv.Name = items[1];
+                    mediasv.Gruppe = items[5];
+                    mediasv.Logo = items[7];
                 }
                 else
                 {
-                    mediasv.link = items[0];
+                    mediasv.Link = items[0];
                     manager.medialist.Add(mediasv);
                 }
                 counter++;
