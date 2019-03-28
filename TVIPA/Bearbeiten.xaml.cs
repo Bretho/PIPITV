@@ -27,7 +27,7 @@ namespace PIPITV
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Confirm_Click(object sender, RoutedEventArgs e)
         {
             io.m1.mediaersatz(holder, name.Text, logo.Text,link.Text,gruppe.Text);
         }

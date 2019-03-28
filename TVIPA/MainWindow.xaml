@@ -12,7 +12,7 @@
         <Button x:Name="bearbeitung" Content="Bearbeiten" HorizontalAlignment="Left" Height="21" Margin="10,35,0,0" VerticalAlignment="Top" Width="75" Click="Bearbeiten" IsEnabled="False"/>
         <Button x:Name="aktualisieren" Content="Aktualisieren" HorizontalAlignment="Left" Height="21" Margin="10,61,0,0" VerticalAlignment="Top" Width="75" Click="Aktualisieren" IsEnabled="False"/>
         <Button x:Name="export" Content="XML-exp." HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top" Width="75" Click="export_Click" IsEnabled="False"/>
-        <Button Content="XML-imp." HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="XML-imp." HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top" Width="75" Click="Import_Click"/>
 
     </Grid>
 </Window>

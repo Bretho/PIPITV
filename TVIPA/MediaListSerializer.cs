@@ -18,8 +18,9 @@ namespace PIPITV
             schreiber.Close();
         }
 
-        public List<media> Deserialisieren (string filepath, List<media> medialist)
+        public List<media> Deserialisieren (string filepath)
         {
+            List<media> medialist = new List<media>();
             XmlSerializer serializer = new XmlSerializer(typeof(List<media>));
             StreamReader leser = new StreamReader(filepath);
             medialist = (List<media>)serializer.Deserialize(leser);
