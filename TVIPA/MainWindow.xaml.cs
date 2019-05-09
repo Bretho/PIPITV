@@ -12,9 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Microsoft.Win32;
-using System.Data;
-using System.IO;
+using Microsoft.Win32; // Importent
+using System.Data; // Importent
+using System.IO;  // Importent
 
 namespace PIPITV
 {
@@ -40,30 +40,32 @@ namespace PIPITV
                 Combi.ItemsSource = io.m1.medialist;
                 aktualisieren.IsEnabled = true;
                 export.IsEnabled = true;
+                Save_in_db.IsEnabled = true;
             }         
         }
 
         private void Bearbeiten(object sender, RoutedEventArgs e)
         {
-            Bearbeiten b = new Bearbeiten();
-            media change = new media();
-            b.Show();
-            change = io.m1.mediaauswahl((media)Combi.SelectedValue);
-            b.holder = change;
-            b.name.Text = change.Name;
-            b.gruppe.Text = change.Gruppe;
+            Bearbeiten b = new Bearbeiten();                            // Erstellt das Fenster Bearbeiten  
+            media change = new media();                                 // Erstellt ein nues Objekt vom Typ Media
+            b.Show();                                                   // Zeigt das Fenster b (Bearbeiten) an 
+            change = io.m1.mediaauswahl((media)Combi.SelectedValue);    // Man übergibt die Ausgewählte Reihe 
+                                                                        // (Castet sie) und macht zu einen Typ Media
+            b.holder = change;                                          // Setzt den Holder in b rein
+            b.name.Text = change.Name;                                  // das setzt den Text in b rein    
+            b.gruppe.Text = change.Gruppe;                              // usw..
             b.logo.Text = change.Logo;
             b.link.Text = change.Link;
         }
 
         private void Combi_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            bearbeitung.IsEnabled = true;
+            bearbeitung.IsEnabled = true;  // Aktiviert den Button (DataGrid)
         }
 
         private void Aktualisieren(object sender, RoutedEventArgs e)
         {
-            Combi.Items.Refresh();
+            Combi.Items.Refresh();  // Aktualisiert die Quelle 
         }
 
         private void export_Click(object sender, RoutedEventArgs e)
@@ -72,21 +74,36 @@ namespace PIPITV
             speichern.Filter = "XML-Datei (*.xml)|*.xml";
             if (speichern.ShowDialog() == true)
             {
-                io.martin.Serialisieren(speichern.FileName, io.m1.medialist);
+                io.mls.Serialisieren(speichern.FileName, io.m1.medialist);
             }
         }
 
         private void Import_Click(object sender, RoutedEventArgs e)
         {
-            OpenFileDialog einlesen = new OpenFileDialog();
+            OpenFileDialog einlesen = new OpenFileDialog();     // Erstellt eine neuen FileDialog
             einlesen.Filter = "XML-Datei (*.xml)|*.xml";
-            if (einlesen.ShowDialog() == true)
+            if (einlesen.ShowDialog() == true)                  // Führt funktion aus wenn die Datei Erfolgreich ausgewählt wurde
             {
-                io.m1.medialist = io.martin.Deserialisieren(einlesen.FileName);
-                Combi.ItemsSource = io.m1.medialist;
-                aktualisieren.IsEnabled = true;
-                export.IsEnabled = true;
+                io.m1.medialist = io.mls.Deserialisieren(einlesen.FileName); // Übergibt den Datein Pfad in die Funktion Deserialisieren
+                Combi.ItemsSource = io.m1.medialist;                         // Füllt die Sachen in den DataGrid
+                aktualisieren.IsEnabled = true;         // Aktiviert den Button 
+                export.IsEnabled = true;                // Aktiviert den Button 
+                Save_in_db.IsEnabled = true;
             }
+        }
+
+        private void DBImport_Click(object sender, RoutedEventArgs e)
+        {
+            io.m1.getMedia();
+            Combi.ItemsSource = io.m1.medialist;
+            aktualisieren.IsEnabled = true;
+            export.IsEnabled = true;
+            Save_in_db.IsEnabled = true;
+        }
+
+        private void DBSave_Click(object sender, RoutedEventArgs e)
+        {
+            io.m1.SaveMediaInDB();
         }
     }
 }

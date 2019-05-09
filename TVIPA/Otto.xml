@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMedia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <media name="Das Erste HD">
+    <group>Vollprogramm</group>
+    <link>https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png</logo>
+  </media>
+  <media name="ZDF HD">
+    <group>Vollprogramm</group>
+    <link>https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png</logo>
+  </media>
+  <media name="3sat">
+    <group>Vollprogramm</group>
+    <link>https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png</logo>
+  </media>
+  <media name="ARTE HD">
+    <group>Vollprogramm</group>
+    <link>https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png</logo>
+  </media>
+  <media name="ServusTV HD">
+    <group>Spartenprogramm</group>
+    <link>https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_rtz2192.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png</logo>
+  </media>
+  <media name="Welt der Wunder">
+    <group>Spartenprogramm</group>
+    <link>http://live.vidoo.de/live/weltderwunder/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png</logo>
+  </media>
+  <media name="ARD-alpha">
+    <group>Spartenprogramm</group>
+    <link>https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png</logo>
+  </media>
+  <media name="one HD">
+    <group>Spartenprogramm</group>
+    <link>http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png</logo>
+  </media>
+  <media name="ZDFneo">
+    <group>Spartenprogramm</group>
+    <link>https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneo.png</logo>
+  </media>
+  <media name="ZDFinfo">
+    <group>Spartenprogramm</group>
+    <link>http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png</logo>
+  </media>
+  <media name="ANIXE HD">
+    <group>Spartenprogramm</group>
+    <link>http://video1.anixehd.tv:8080/Apple/wifistream.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png</logo>
+  </media>
+  <media name="blizz TV">
+    <group>Filme / Serien</group>
+    <link>http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png</logo>
+  </media>
+  <media name="Family TV">
+    <group>Filme / Serien</group>
+    <link>http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/familytv.png</logo>
+  </media>
+  <media name="eoTV HD">
+    <group>Filme / Serien</group>
+    <link>http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png</logo>
+  </media>
+  <media name="RiC / eoTV">
+    <group>Filme / Serien;Kinder / Jugend</group>
+    <link>https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png</logo>
+  </media>
+  <media name="KiKA">
+    <group>Kinder / Jugend</group>
+    <link>https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png</logo>
+  </media>
+  <media name="Nickelodeon">
+    <group>Kinder / Jugend</group>
+    <link>http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png</logo>
+  </media>
+  <media name="MTV Germany">
+    <group>Musik</group>
+    <link>http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png</logo>
+  </media>
+  <media name="DELUXE MUSIC">
+    <group>Musik</group>
+    <link>http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png</logo>
+  </media>
+  <media name="nice">
+    <group>Musik</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png</logo>
+  </media>
+  <media name="Folx TV">
+    <group>Musik</group>
+    <link>http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png</logo>
+  </media>
+  <media name="Deutsches Musik Fernsehen">
+    <group>Musik</group>
+    <link>https://tv.artcom-venture.de/dmf/tv_720.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png</logo>
+  </media>
+  <media name="tagesschau24">
+    <group>Nachrichten</group>
+    <link>https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png</logo>
+  </media>
+  <media name="n-tv">
+    <group>Nachrichten;Dokumentationen</group>
+    <link>https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ntv.png</logo>
+  </media>
+  <media name="WELT">
+    <group>Nachrichten;Dokumentationen</group>
+    <link>http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png</logo>
+  </media>
+  <media name="phoenix">
+    <group>Nachrichten</group>
+    <link>https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png</logo>
+  </media>
+  <media name="Sky Sport News HD">
+    <group>Nachrichten;Sport</group>
+    <link>https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png</logo>
+  </media>
+  <media name="Bibel TV">
+    <group>Religion</group>
+    <link>http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png</logo>
+  </media>
+  <media name="K-TV">
+    <group>Religion</group>
+    <link>http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png</logo>
+  </media>
+  <media name="EWTN katholisches TV">
+    <group>Religion</group>
+    <link>http://d3j0n5al39mfyd.cloudfront.net/p/GERG_1920x1080_4000k.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png</logo>
+  </media>
+  <media name="ERF 1">
+    <group>Religion</group>
+    <link>http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png</logo>
+  </media>
+  <media name="health.tv">
+    <group>Sonstiges</group>
+    <link>http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png</logo>
+  </media>
+  <media name="VISIT-X.tv">
+    <group>Sonstiges</group>
+    <link>https://stream.visit-x.tv/vxtv/live/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png</logo>
+  </media>
+  <media name="1-2-3.tv">
+    <group>Teleshopping</group>
+    <link>https://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png</logo>
+  </media>
+  <media name="pearl.tv">
+    <group>Teleshopping</group>
+    <link>http://enstyle.cdn.ses-ps.com/index.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png</logo>
+  </media>
+  <media name="QVC">
+    <group>Teleshopping</group>
+    <link>http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png</logo>
+  </media>
+  <media name="QVC PLUS">
+    <group>Teleshopping</group>
+    <link>http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png</logo>
+  </media>
+  <media name="QVC Beauty &amp; Style">
+    <group>Teleshopping</group>
+    <link>http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png</logo>
+  </media>
+  <media name="Genius Plus TV">
+    <group>Teleshopping</group>
+    <link>http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png</logo>
+  </media>
+  <media name="WDR HD">
+    <group>Regional</group>
+    <link>http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png</logo>
+  </media>
+  <media name="SWR Baden-W??rttemberg HD ">
+    <group>Regional</group>
+    <link>https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png</logo>
+  </media>
+  <media name="SWR Rheinland-Pfalz HD">
+    <group>Regional</group>
+    <link>https://swrrp-lh.akamaihd.net/i/swrrp_live@196739/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png</logo>
+  </media>
+  <media name="NDR Niedersachsen HD">
+    <group>Regional</group>
+    <link>https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png</logo>
+  </media>
+  <media name="NDR Schleswig-Holstein HD">
+    <group>Regional</group>
+    <link>https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png</logo>
+  </media>
+  <media name="NDR Mecklenburg-Vorpommern HD">
+    <group>Regional</group>
+    <link>https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png</logo>
+  </media>
+  <media name="NDR Hamburg HD">
+    <group>Regional</group>
+    <link>https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png</logo>
+  </media>
+  <media name="BR Fernsehen Nord HD">
+    <group>Regional</group>
+    <link>https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png</logo>
+  </media>
+  <media name="BR Fernsehen S??d HD">
+    <group>Regional</group>
+    <link>https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png</logo>
+  </media>
+  <media name="MDR Sachsen HD">
+    <group>Regional</group>
+    <link>http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png</logo>
+  </media>
+  <media name="MDR Sachsen-Anhalt HD">
+    <group>Regional</group>
+    <link>http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png</logo>
+  </media>
+  <media name="MDR Th??ringen HD">
+    <group>Regional</group>
+    <link>http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png</logo>
+  </media>
+  <media name="hr-fernsehen">
+    <group>Regional</group>
+    <link>http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png</logo>
+  </media>
+  <media name="rbb Berlin HD">
+    <group>Regional</group>
+    <link>https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png</logo>
+  </media>
+  <media name="rbb Brandenburg HD">
+    <group>Regional</group>
+    <link>https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png</logo>
+  </media>
+  <media name="SR Fernsehen HD">
+    <group>Regional</group>
+    <link>http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png</logo>
+  </media>
+  <media name="Deutsche Welle">
+    <group>Regional</group>
+    <link>https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png</logo>
+  </media>
+  <media name="Deutsche Welle (EN)">
+    <group>Regional</group>
+    <link>https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png</logo>
+  </media>
+  <media name="a.tv">
+    <group>Lokal</group>
+    <link>http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png</logo>
+  </media>
+  <media name="ALEX Berlin">
+    <group>Lokal</group>
+    <link>https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png</logo>
+  </media>
+  <media name="allg??u.tv">
+    <group>Lokal</group>
+    <link>http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png</logo>
+  </media>
+  <media name="Baden TV">
+    <group>Lokal</group>
+    <link>http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png</logo>
+  </media>
+  <media name="center.tv D??sseldorf">
+    <group>Lokal</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/centertv.png</logo>
+  </media>
+  <media name="Chemnitz Fernsehen">
+    <group>Lokal</group>
+    <link>https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png</logo>
+  </media>
+  <media name="DRF1">
+    <group>Lokal</group>
+    <link>http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/drf1.png</logo>
+  </media>
+  <media name="Donau TV">
+    <group>Lokal</group>
+    <link>http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png</logo>
+  </media>
+  <media name="Dresden Fernsehen">
+    <group>Lokal</group>
+    <link>https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png</logo>
+  </media>
+  <media name="eRtv">
+    <group>Lokal</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ertv.png</logo>
+  </media>
+  <media name="Franken Fernsehen">
+    <group>Lokal</group>
+    <link>http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png</logo>
+  </media>
+  <media name="Hamburg 1">
+    <group>Lokal</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png</logo>
+  </media>
+  <media name="intv">
+    <group>Lokal</group>
+    <link>https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png</logo>
+  </media>
+  <media name="Isar TV">
+    <group>Lokal</group>
+    <link>https://586c13b083c0d.streamlock.net/isar-tv/isar-tv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png</logo>
+  </media>
+  <media name="KabelJournal">
+    <group>Lokal</group>
+    <link>http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png</logo>
+  </media>
+  <media name="L-TV">
+    <group>Lokal</group>
+    <link>http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png</logo>
+  </media>
+  <media name="Leipzig Fernsehen">
+    <group>Lokal</group>
+    <link>https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png</logo>
+  </media>
+  <media name="main.tv">
+    <group>Lokal</group>
+    <link>http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/maintv.png</logo>
+  </media>
+  <media name="m??nchen.tv">
+    <group>Lokal</group>
+    <link>https://586c13b083c0d.streamlock.net/muenchentv/muenchentv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png</logo>
+  </media>
+  <media name="noa4 Hamburg HD">
+    <group>Lokal</group>
+    <link>http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png</logo>
+  </media>
+  <media name="noa4 Norderstedt HD">
+    <group>Lokal</group>
+    <link>http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png</logo>
+  </media>
+  <media name="nrwision">
+    <group>Lokal</group>
+    <link>https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png</logo>
+  </media>
+  <media name="Oberpfalz TV">
+    <group>Lokal</group>
+    <link>https://586dce1287bfd.streamlock.net/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png</logo>
+  </media>
+  <media name="OK Koblenz">
+    <group>Lokal</group>
+    <link>http://stream-cdn.ok54.de/hls/ok4.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png</logo>
+  </media>
+  <media name="OK Trier">
+    <group>Lokal</group>
+    <link>http://stream-cdn.ok54.de/hls/ok54.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png</logo>
+  </media>
+  <media name="oldenburg eins">
+    <group>Lokal</group>
+    <link>http://188.40.16.94:1935/live/studio/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png</logo>
+  </media>
+  <media name="Potsdam TV">
+    <group>Lokal</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png</logo>
+  </media>
+  <media name="Regio TV Schwaben">
+    <group>Lokal</group>
+    <link>http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png</logo>
+  </media>
+  <media name="RFO">
+    <group>Lokal</group>
+    <link>http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png</logo>
+  </media>
+  <media name="Rhein Neckar Fernsehen">
+    <group>Lokal</group>
+    <link>http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png</logo>
+  </media>
+  <media name="rheinmaintv">
+    <group>Lokal</group>
+    <link>http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png</logo>
+  </media>
+  <media name="Sylt1">
+    <group>Lokal</group>
+    <link>http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png</logo>
+  </media>
+  <media name="TRP1">
+    <group>Lokal</group>
+    <link>http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png</logo>
+  </media>
+  <media name="TV Mittelrhein">
+    <group>Lokal</group>
+    <link>http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/chunklist_b2000000.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png</logo>
+  </media>
+  <media name="TV Touring">
+    <group>Lokal</group>
+    <link>https://586dce1287bfd.streamlock.net/tvtouringw/tvtouringw.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvtouring.png</logo>
+  </media>
+  <media name="TV W??rzburg">
+    <group>Lokal</group>
+    <link>http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png</logo>
+  </media>
+  <media name="tv.berlin">
+    <group>Lokal</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png</logo>
+  </media>
+  <media name="TVA">
+    <group>Lokal</group>
+    <link>https://586c13b083c0d.streamlock.net/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png</logo>
+  </media>
+  <media name="TVO">
+    <group>Lokal</group>
+    <link>https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png</logo>
+  </media>
+  <media name="Westerwald TV">
+    <group>Lokal</group>
+    <link>https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png</logo>
+  </media>
+  <media name="ARD Event 1">
+    <group>Extra</group>
+    <link>http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png</logo>
+  </media>
+  <media name="ARD Event 2">
+    <group>Extra</group>
+    <link>http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png</logo>
+  </media>
+  <media name="ZDF Event 1">
+    <group>Extra</group>
+    <link>http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png</logo>
+  </media>
+  <media name="ZDF Event 2">
+    <group>Extra</group>
+    <link>http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png</logo>
+  </media>
+  <media name="ZDF Event 3">
+    <group>Extra</group>
+    <link>http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/index_3096_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png</logo>
+  </media>
+  <media name="ZDF Event 4">
+    <group>Extra</group>
+    <link>http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png</logo>
+  </media>
+  <media name="ZDF Event 5">
+    <group>Extra</group>
+    <link>http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png</logo>
+  </media>
+  <media name="ZDF Event 6">
+    <group>Extra</group>
+    <link>http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png</logo>
+  </media>
+  <media name="ARTE Event 1">
+    <group>Extra</group>
+    <link>https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png</logo>
+  </media>
+  <media name="ARTE Event 2">
+    <group>Extra</group>
+    <link>https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png</logo>
+  </media>
+  <media name="ARTE Event 3">
+    <group>Extra</group>
+    <link>https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png</logo>
+  </media>
+  <media name="ARTE Event 4">
+    <group>Extra</group>
+    <link>https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png</logo>
+  </media>
+  <media name="WDR Event 1">
+    <group>Extra</group>
+    <link>http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png</logo>
+  </media>
+  <media name="WDR Event 2">
+    <group>Extra</group>
+    <link>http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png</logo>
+  </media>
+  <media name="WDR Event 3">
+    <group>Extra</group>
+    <link>http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png</logo>
+  </media>
+  <media name="WDR Event 4">
+    <group>Extra</group>
+    <link>http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png</logo>
+  </media>
+  <media name="SWR Event 1">
+    <group>Extra</group>
+    <link>http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png</logo>
+  </media>
+  <media name="SWR Event 2">
+    <group>Extra</group>
+    <link>http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png</logo>
+  </media>
+  <media name="SWR Event 3">
+    <group>Extra</group>
+    <link>http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png</logo>
+  </media>
+  <media name="SWR Event 4">
+    <group>Extra</group>
+    <link>http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png</logo>
+  </media>
+  <media name="NDR Event 1">
+    <group>Extra</group>
+    <link>http://ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Event 2">
+    <group>Extra</group>
+    <link>http://ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Event 3">
+    <group>Extra</group>
+    <link>http://ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Spezial 1">
+    <group>Extra</group>
+    <link>http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Spezial 2">
+    <group>Extra</group>
+    <link>http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Spezial 3">
+    <group>Extra</group>
+    <link>http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Spezial 4">
+    <group>Extra</group>
+    <link>http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Spezial 5">
+    <group>Extra</group>
+    <link>http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="NDR Spezial 6">
+    <group>Extra</group>
+    <link>http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png</logo>
+  </media>
+  <media name="BR Event 1">
+    <group>Extra</group>
+    <link>http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png</logo>
+  </media>
+  <media name="BR Event 2">
+    <group>Extra</group>
+    <link>http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png</logo>
+  </media>
+  <media name="BR Event 3">
+    <group>Extra</group>
+    <link>http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png</logo>
+  </media>
+  <media name="BR Event 4">
+    <group>Extra</group>
+    <link>http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png</logo>
+  </media>
+  <media name="MDR+ 1">
+    <group>Extra</group>
+    <link>http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png</logo>
+  </media>
+  <media name="MDR+ 2">
+    <group>Extra</group>
+    <link>http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/index_3871_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png</logo>
+  </media>
+  <media name="MDR+ 3">
+    <group>Extra</group>
+    <link>http://liveevent2.mdr.de/i/livetvmdrevent3_ww@106905/index_3871_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png</logo>
+  </media>
+  <media name="HR Event 1">
+    <group>Extra</group>
+    <link>http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png</logo>
+  </media>
+  <media name="HR Event 2">
+    <group>Extra</group>
+    <link>http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png</logo>
+  </media>
+  <media name="rbb Event 1">
+    <group>Extra</group>
+    <link>http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/index_2692_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png</logo>
+  </media>
+  <media name="rbb Event 2">
+    <group>Extra</group>
+    <link>https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png</logo>
+  </media>
+  <media name="Parlamentsfernsehen 1">
+    <group>Extra;Information / Bildung</group>
+    <link>https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png</logo>
+  </media>
+  <media name="Parlamentsfernsehen 2">
+    <group>Extra;Information / Bildung</group>
+    <link>https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png</logo>
+  </media>
+  <media name="DJing">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/live.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Animation">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/animation.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Classics">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/hits.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Electro Rock">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/session_electro-rock.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing French touch">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/session_french-touch.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Hedonist">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/session_hedonist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Hot Hot Hot">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/h-01-fta.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Ibiza">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/dancefloor.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Karaoke">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/karaoke.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Summer Vibes">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/session_summer-vibes.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Underground">
+    <group>Extra;Musik</group>
+    <link>https://www.djing.com/tv/underground.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="DJing Wild EDM">
+    <group>Extra;Musik</group>
+    <link>http://www.djing.com/tv/session_wild-edm.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png</logo>
+  </media>
+  <media name="ServusTV HD (AT)">
+    <group>International;Spartenprogramm</group>
+    <link>http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png</logo>
+  </media>
+  <media name="gotv">
+    <group>International;Musik</group>
+    <link>http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png</logo>
+  </media>
+  <media name="Okto">
+    <group>International</group>
+    <link>https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png</logo>
+  </media>
+  <media name="ORF eins HD">
+    <group>International</group>
+    <link>https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png</logo>
+  </media>
+  <media name="ORF 2 HD">
+    <group>International</group>
+    <link>https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png</logo>
+  </media>
+  <media name="ORF III HD">
+    <group>International</group>
+    <link>https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png</logo>
+  </media>
+  <media name="ORF SPORT +">
+    <group>International;Sport</group>
+    <link>https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png</logo>
+  </media>
+  <media name="dorf tv">
+    <group>International</group>
+    <link>https://stream.openplayout.org/hls/dorf_high/index.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png</logo>
+  </media>
+  <media name="RE eins TV">
+    <group>International</group>
+    <link>http://www.reeins.tv:1935/live/re1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/reeins.png</logo>
+  </media>
+  <media name="Tirol TV">
+    <group>International</group>
+    <link>http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png</logo>
+  </media>
+  <media name="oe24 TV">
+    <group>International</group>
+    <link>http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png</logo>
+  </media>
+  <media name="M4TV">
+    <group>International</group>
+    <link>http://streaming.austria24.tv/live/stream_720p/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png</logo>
+  </media>
+  <media name="W24 TV">
+    <group>International</group>
+    <link>http://ms02.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png</logo>
+  </media>
+  <media name="Kronehit TV">
+    <group>International;Musik</group>
+    <link>https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png</logo>
+  </media>
+  <media name="Sporttime TV 1">
+    <group>International;Musik</group>
+    <link>http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png</logo>
+  </media>
+  <media name="Sporttime TV 2">
+    <group>International;Sport</group>
+    <link>http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png</logo>
+  </media>
+  <media name="Sporttime TV 4">
+    <group>International;Information / Bildung</group>
+    <link>http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png</logo>
+  </media>
+  <media name="Sporttime TV 5">
+    <group>International</group>
+    <link>http://live.earthtv.com:1935/edge27/TWLDE/playlist.m3u8?58a36274bbf047f6c3b5cdb1</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png</logo>
+  </media>
+  <media name="TeleZ??ri HD">
+    <group>International</group>
+    <link>https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png</logo>
+  </media>
+  <media name="TeleB??rn HD">
+    <group>International</group>
+    <link>http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png</logo>
+  </media>
+  <media name="Tele M1 HD">
+    <group>International</group>
+    <link>http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png</logo>
+  </media>
+  <media name="TVO (CH)">
+    <group>International</group>
+    <link>http://livevideo.infomaniak.com/streaming/livecast/tvo/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png</logo>
+  </media>
+  <media name="TeleBielingue">
+    <group>International</group>
+    <link>http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png</logo>
+  </media>
+  <media name="TVM3">
+    <group>International;Musik</group>
+    <link>https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png</logo>
+  </media>
+  <media name="Telebasel">
+    <group>International</group>
+    <link>http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png</logo>
+  </media>
+  <media name="ABC News">
+    <group>International;Nachrichten</group>
+    <link>https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png</logo>
+  </media>
+  <media name="Adult Swim">
+    <group>International;Comedy</group>
+    <link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png</logo>
+  </media>
+  <media name="JUCE TV">
+    <group>International;Religion;Kinder / Jugend</group>
+    <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png</logo>
+  </media>
+  <media name="NASA TV">
+    <group>International;Information / Bildung</group>
+    <link>https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png</logo>
+  </media>
+  <media name="CBSN">
+    <group>International;Nachrichten</group>
+    <link>https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png</logo>
+  </media>
+  <media name="CBN News">
+    <group>International;Nachrichten</group>
+    <link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png</logo>
+  </media>
+  <media name="Bloomberg TV">
+    <group>International;Wirtschaft</group>
+    <link>https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png</logo>
+  </media>
+  <media name="SBN">
+    <group>International;Religion</group>
+    <link>http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch81/ch81.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png</logo>
+  </media>
+  <media name="GOD TV">
+    <group>International;Religion</group>
+    <link>https://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_3200_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png</logo>
+  </media>
+  <media name="Voice of America">
+    <group>International;Nachrichten;Information / Bildung</group>
+    <link>http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png</logo>
+  </media>
+  <media name="KTVU Fox 2">
+    <group>International;Nachrichten</group>
+    <link>http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktvufox2.png</logo>
+  </media>
+  <media name="MSNBC">
+    <group>International;Nachrichten</group>
+    <link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png</logo>
+  </media>
+  <media name="WGN-TV">
+    <group>International;Nachrichten</group>
+    <link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wgntv.png</logo>
+  </media>
+  <media name="CMC">
+    <group>International;Musik</group>
+    <link>http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png</logo>
+  </media>
+  <media name="Hunt Channel">
+    <group>International;Sonstiges</group>
+    <link>https://nimble.huntchannel.tv:4433/abr/huntchannel/live/huntchannelhq/chunks.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/huntchannel.png</logo>
+  </media>
+  <media name="Create &amp; Craft TV">
+    <group>International;Teleshopping</group>
+    <link>https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png</logo>
+  </media>
+  <media name="Capital TV">
+    <group>International;Musik</group>
+    <link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png</logo>
+  </media>
+  <media name="Heart TV">
+    <group>International;Musik</group>
+    <link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png</logo>
+  </media>
+  <media name="Sky News">
+    <group>International;Nachrichten</group>
+    <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png</logo>
+  </media>
+  <media name="London Live">
+    <group>International;Nachrichten</group>
+    <link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png</logo>
+  </media>
+  <media name="Press TV">
+    <group>International;Nachrichten</group>
+    <link>http://178.32.255.199:1935/live/ptven/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png</logo>
+  </media>
+  <media name="CHCH">
+    <group>International;Nachrichten</group>
+    <link>https://bcovlive-a.akamaihd.net/45a29af6ec4341539ddd3dd505c4b669/us-west-2/5644964886001/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png</logo>
+  </media>
+  <media name="TVNZ 1">
+    <group>International</group>
+    <link>https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png</logo>
+  </media>
+  <media name="TVNZ 2">
+    <group>International</group>
+    <link>https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png</logo>
+  </media>
+  <media name="Three">
+    <group>International;Nachrichten</group>
+    <link>http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/three.png</logo>
+  </media>
+  <media name="ARTE HD (FR)">
+    <group>International;Vollprogramm</group>
+    <link>https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png</logo>
+  </media>
+  <media name="France 24">
+    <group>International;Nachrichten</group>
+    <link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png</logo>
+  </media>
+  <media name="NRJ HITS TV">
+    <group>International;Musik</group>
+    <link>http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png</logo>
+  </media>
+  <media name="BFMTV">
+    <group>International;Nachrichten</group>
+    <link>https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png</logo>
+  </media>
+  <media name="XITE">
+    <group>International;Musik</group>
+    <link>http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png</logo>
+  </media>
+  <media name="TV 538">
+    <group>International;Musik</group>
+    <link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png</logo>
+  </media>
+  <media name="SDF">
+    <group>International</group>
+    <link>http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png</logo>
+  </media>
+  <media name="m2o Tv">
+    <group>International;Musik</group>
+    <link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png</logo>
+  </media>
+  <media name="Rai News 24">
+    <group>International;Nachrichten</group>
+    <link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png</logo>
+  </media>
+  <media name="supertennis.tv">
+    <group>International;Sport</group>
+    <link>http://livetok.flash.glb.ipercast.net/supertennis.tv-live/live_490.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/supertennis.png</logo>
+  </media>
+  <media name="Fjorton">
+    <group>International</group>
+    <link>http://155.4.160.181:1935/fjwebb/live/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png</logo>
+  </media>
+  <media name="Digi 24 HD">
+    <group>International;Nachrichten</group>
+    <link>http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png</logo>
+  </media>
+  <media name="ProTv News">
+    <group>International;Nachrichten</group>
+    <link>http://185.133.64.237/news/stream:1.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/protvnews.png</logo>
+  </media>
+  <media name="Realitatea TV">
+    <group>International;Nachrichten</group>
+    <link>http://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png</logo>
+  </media>
+  <media name="Romania TV">
+    <group>International;Nachrichten</group>
+    <link>http://ppext.arktv.ro/hls/channel6/bitrate4.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/romaniatv.png</logo>
+  </media>
+  <media name="Sitel">
+    <group>International</group>
+    <link>http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sitel.png</logo>
+  </media>
+  <media name="Kanal 5">
+    <group>International</group>
+    <link>http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kanal5.png</logo>
+  </media>
+  <media name="Alfa">
+    <group>International</group>
+    <link>http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfa.png</logo>
+  </media>
+  <media name="Telma">
+    <group>International</group>
+    <link>http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telma.png</logo>
+  </media>
+  <media name="24 Vesti">
+    <group>International;Nachrichten</group>
+    <link>http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png</logo>
+  </media>
+  <media name="TRT World HD">
+    <group>International;Nachrichten</group>
+    <link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png</logo>
+  </media>
+  <media name="RT HD">
+    <group>International;Nachrichten</group>
+    <link>https://secure-streams.akamaized.net/rt/index2500.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png</logo>
+  </media>
+  <media name="RT Spanish HD">
+    <group>International;Nachrichten</group>
+    <link>http://secure-streams.akamaized.net/rt-esp/index2500.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png</logo>
+  </media>
+  <media name="RT Documentary">
+    <group>International;Dokumentationen</group>
+    <link>https://secure-streams.akamaized.net/rt-doc/index2500.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png</logo>
+  </media>
+  <media name="MetroTV">
+    <group>International;Nachrichten</group>
+    <link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1322909361_b1300000_sleng.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png</logo>
+  </media>
+  <media name="NHK WORLD TV">
+    <group>International;Nachrichten;Dokumentationen</group>
+    <link>https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png</logo>
+  </media>
+  <media name="Al Jazeera">
+    <group>International;Nachrichten</group>
+    <link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png</logo>
+  </media>
+  <media name="Al Jazeera English">
+    <group>International;Nachrichten</group>
+    <link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png</logo>
+  </media>
+  <media name="Dubai One">
+    <group>International;Filme / Serien</group>
+    <link>http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png</logo>
+  </media>
+  <media name="KVF">
+    <group>International</group>
+    <link>http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png</logo>
+  </media>
+  <media name="ALBUK TV">
+    <group>International</group>
+    <link>http://5.135.142.110:1935/albuk/albuk.stream/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/albuktv.png</logo>
+  </media>
+  <media name="RT?? News Now">
+    <group>International;Nachrichten</group>
+    <link>http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png</logo>
+  </media>
+  <media name="Mello TV">
+    <group>International;Filme / Serien</group>
+    <link>https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f_1_1900544/chunklist.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png</logo>
+  </media>
+  <media name="Channel NewsAsia">
+    <group>International;Nachrichten</group>
+    <link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-b.m3u8</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png</logo>
+  </media>
+  <media name="100'5 Alemannia">
+    <group>true</group>
+    <link>http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png</logo>
+  </media>
+  <media name="100'5 DAS HITRADIO">
+    <group>true</group>
+    <link>http://dashitradio-mp3-8000.skydisc.net:8000/dashitradio-live.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png</logo>
+  </media>
+  <media name="105'5 Spreeradio">
+    <group>true</group>
+    <link>http://stream.spreeradio.de/spree-live/mp3-128/konsole</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png</logo>
+  </media>
+  <media name="105'5 Spreeradio 80er">
+    <group>true</group>
+    <link>http://stream.spreeradio.de/spree-80er/mp3-128/konsole</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png</logo>
+  </media>
+  <media name="105'5 Spreeradio Love">
+    <group>true</group>
+    <link>http://stream.spreeradio.de/spree-love/mp3-128/konsole</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png</logo>
+  </media>
+  <media name="105'5 Spreeradio Rock">
+    <group>true</group>
+    <link>http://stream.spreeradio.de/spree-rock/mp3-128/konsole</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png</logo>
+  </media>
+  <media name="105'5 Spreeradio Weihnachtsradio">
+    <group>true</group>
+    <link>http://stream.spreeradio.de/spree-event/mp3-128/konsole</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png</logo>
+  </media>
+  <media name="1LIVE">
+    <group>true</group>
+    <link>http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1live.png</logo>
+  </media>
+  <media name="1LIVE diggi">
+    <group>true</group>
+    <link>http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png</logo>
+  </media>
+  <media name="89.0 RTL">
+    <group>true</group>
+    <link>http://stream.89.0rtl.de/live/mp3-256/direktlinkHP</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png</logo>
+  </media>
+  <media name="Absolut Radio">
+    <group>true</group>
+    <link>http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png</logo>
+  </media>
+  <media name="Absolut relax">
+    <group>true</group>
+    <link>http://stream.absolutradio.de/relax/mp3-160/stream.absolutradio.de</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutrelax.png</logo>
+  </media>
+  <media name="antenne 1">
+    <group>true</group>
+    <link>http://stream.antenne1.de/a1stg/livestream2.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antenne1.png</logo>
+  </media>
+  <media name="ANTENNE BAYERN">
+    <group>true</group>
+    <link>http://mp3channels.webradio.antenne.de:80/antenne</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png</logo>
+  </media>
+  <media name="Antenne Brandenburg">
+    <group>true</group>
+    <link>http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png</logo>
+  </media>
+  <media name="ANTENNE TH??RINGEN">
+    <group>true</group>
+    <link>http://stream.antennethueringen.de/live/mp3-192</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennethueringen.png</logo>
+  </media>
+  <media name="AntenneSaar">
+    <group>true</group>
+    <link>http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png</logo>
+  </media>
+  <media name="B5 aktuell">
+    <group>true</group>
+    <link>http://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5aktuell.png</logo>
+  </media>
+  <media name="B5 plus">
+    <group>true</group>
+    <link>http://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5plus.png</logo>
+  </media>
+  <media name="Bayern 1">
+    <group>true</group>
+    <link>http://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png</logo>
+  </media>
+  <media name="Bayern 2 Nord">
+    <group>true</group>
+    <link>http://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png</logo>
+  </media>
+  <media name="Bayern 2 S??d">
+    <group>true</group>
+    <link>http://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png</logo>
+  </media>
+  <media name="Bayern 3">
+    <group>true</group>
+    <link>http://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png</logo>
+  </media>
+  <media name="Bayern plus">
+    <group>true</group>
+    <link>http://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayernplus.png</logo>
+  </media>
+  <media name="bigFM">
+    <group>true</group>
+    <link>http://217.151.152.245:80/bigfm-mp3-96</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png</logo>
+  </media>
+  <media name="BlackBeats.FM">
+    <group>true</group>
+    <link>http://stream.blackbeatslive.de/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png</logo>
+  </media>
+  <media name="BR Heimat">
+    <group>true</group>
+    <link>http://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png</logo>
+  </media>
+  <media name="BR-Klassik">
+    <group>true</group>
+    <link>http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png</logo>
+  </media>
+  <media name="Bremen Eins">
+    <group>true</group>
+    <link>http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremeneins.png</logo>
+  </media>
+  <media name="Bremen Vier">
+    <group>true</group>
+    <link>http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png</logo>
+  </media>
+  <media name="Bremen Vier rockt">
+    <group>true</group>
+    <link>http://80.252.104.101:8000/rockt</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png</logo>
+  </media>
+  <media name="Bremen Zwei">
+    <group>true</group>
+    <link>http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenzwei.png</logo>
+  </media>
+  <media name="DASDING">
+    <group>true</group>
+    <link>https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png</logo>
+  </media>
+  <media name="DELUXE 80S EXTREME">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0001</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="DELUXE ALMOST FAMOUS">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0002</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="DELUXE CHEFSESSEL by WAGNER">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0011</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="DELUXE EASY">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0009</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png</logo>
+  </media>
+  <media name="DELUXE LOUNGE RADIO">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0010</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png</logo>
+  </media>
+  <media name="DELUXE MUSIC RADIO">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0005</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png</logo>
+  </media>
+  <media name="DELUXE NEW ARRIVALS">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0006</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="DELUXE TOP 25">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0008</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="Deutschlandfunk">
+    <group>true</group>
+    <link>http://st01.dlf.de/dlf/01/128/mp3/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png</logo>
+  </media>
+  <media name="Deutschlandfunk Kultur">
+    <group>true</group>
+    <link>http://st02.dlf.de/dlf/02/128/mp3/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png</logo>
+  </media>
+  <media name="Deutschlandfunk Nova">
+    <group>true</group>
+    <link>http://st03.dlf.de/dlf/03/128/mp3/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png</logo>
+  </media>
+  <media name="Deutschlandradio Dokumente und Debatten">
+    <group>true</group>
+    <link>http://st04.dlf.de/dlf/04/128/mp3/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandradiodud.png</logo>
+  </media>
+  <media name="DIE NEUE 107.7">
+    <group>true</group>
+    <link>http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png</logo>
+  </media>
+  <media name="DISCO DELUXE">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0003</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="domradio.de">
+    <group>true</group>
+    <link>http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png</logo>
+  </media>
+  <media name="DONAU 3 FM">
+    <group>true</group>
+    <link>http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/donau3fm.png</logo>
+  </media>
+  <media name="egoFM">
+    <group>true</group>
+    <link>http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/egofm.png</logo>
+  </media>
+  <media name="ERF Plus">
+    <group>true</group>
+    <link>http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfplus.png</logo>
+  </media>
+  <media name="ERF Pop">
+    <group>true</group>
+    <link>http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png</logo>
+  </media>
+  <media name="FluxFM">
+    <group>true</group>
+    <link>http://streams.fluxfm.de/live/mp3-320/audio/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png</logo>
+  </media>
+  <media name="Fritz">
+    <group>true</group>
+    <link>http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png</logo>
+  </media>
+  <media name="harmony.fm">
+    <group>true</group>
+    <link>http://mp3ad.harmony.c.nmdn.net/fs_harmonyfm/hqlivestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png</logo>
+  </media>
+  <media name="HIT RADIO FFH">
+    <group>true</group>
+    <link>http://mp3.ffh.de/radioffh/hqlivestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png</logo>
+  </media>
+  <media name="hr-info">
+    <group>true</group>
+    <link>http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png</logo>
+  </media>
+  <media name="hr1">
+    <group>true</group>
+    <link>http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr1.png</logo>
+  </media>
+  <media name="hr2-kultur">
+    <group>true</group>
+    <link>http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png</logo>
+  </media>
+  <media name="hr3">
+    <group>true</group>
+    <link>http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr3.png</logo>
+  </media>
+  <media name="hr4">
+    <group>true</group>
+    <link>http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png</logo>
+  </media>
+  <media name="JAM FM">
+    <group>true</group>
+    <link>http://stream.jam.fm/jamfm-live/mp3-128/konsole/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png</logo>
+  </media>
+  <media name="JAM FM Black Label">
+    <group>true</group>
+    <link>http://stream.jam.fm/jamfm-bl/mp3-128/konsole/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png</logo>
+  </media>
+  <media name="JAM FM New Music Radio">
+    <group>true</group>
+    <link>http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png</logo>
+  </media>
+  <media name="JUKEBOX RADIO">
+    <group>true</group>
+    <link>https://deluxe-radio.mivitec.net:8443/0004</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png</logo>
+  </media>
+  <media name="KiRaKa">
+    <group>true</group>
+    <link>http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png</logo>
+  </media>
+  <media name="KULTRADIO">
+    <group>true</group>
+    <link>http://ice.kultradio.fm/kult128.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kultradio.png</logo>
+  </media>
+  <media name="LandesWelle Th??ringen">
+    <group>true</group>
+    <link>http://stream.landeswelle.de/lwt/mp3-192</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png</logo>
+  </media>
+  <media name="MDR AKTUELL">
+    <group>true</group>
+    <link>http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdraktuell.png</logo>
+  </media>
+  <media name="MDR JUMP">
+    <group>true</group>
+    <link>http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png</logo>
+  </media>
+  <media name="MDR KLASSIK">
+    <group>true</group>
+    <link>http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrklassik.png</logo>
+  </media>
+  <media name="MDR KULTUR">
+    <group>true</group>
+    <link>http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrkultur.png</logo>
+  </media>
+  <media name="MDR SACHSEN">
+    <group>true</group>
+    <link>http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsachsen.png</logo>
+  </media>
+  <media name="MDR SPUTNIK">
+    <group>true</group>
+    <link>http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsputnik.png</logo>
+  </media>
+  <media name="MDR TH??RINGEN">
+    <group>true</group>
+    <link>http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrthueringen.png</logo>
+  </media>
+  <media name="multicult.fm">
+    <group>true</group>
+    <link>http://stream.multicult.fm:8000/hifi</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/multicultfm.png</logo>
+  </media>
+  <media name="N-JOY">
+    <group>true</group>
+    <link>http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/njoy.png</logo>
+  </media>
+  <media name="NDR 1 Niedersachsen">
+    <group>true</group>
+    <link>http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1niedersachsen.png</logo>
+  </media>
+  <media name="NDR 1 Radio MV">
+    <group>true</group>
+    <link>http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1radiomv.png</logo>
+  </media>
+  <media name="NDR 1 Welle Nord">
+    <group>true</group>
+    <link>http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1wellenord.png</logo>
+  </media>
+  <media name="NDR 2">
+    <group>true</group>
+    <link>http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr2.png</logo>
+  </media>
+  <media name="NDR 90,3">
+    <group>true</group>
+    <link>http://ndr-ndr903-hamburg.cast.addradio.de/ndr/ndr903/hamburg/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr903.png</logo>
+  </media>
+  <media name="NDR Blue">
+    <group>true</group>
+    <link>http://ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrblue.png</logo>
+  </media>
+  <media name="NDR Info">
+    <group>true</group>
+    <link>http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfo.png</logo>
+  </media>
+  <media name="NDR Info Spezial">
+    <group>true</group>
+    <link>http://ndr-ndrinfospezial-live.cast.addradio.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfospezial.png</logo>
+  </media>
+  <media name="NDR kultur">
+    <group>true</group>
+    <link>http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrkultur.png</logo>
+  </media>
+  <media name="NDR Plus">
+    <group>true</group>
+    <link>http://ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrplus.png</logo>
+  </media>
+  <media name="nice">
+    <group>true</group>
+    <link>http://edge.audio.3qsdn.com/rG7JYcRNgKdh3XV</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png</logo>
+  </media>
+  <media name="nice DELUXE">
+    <group>true</group>
+    <link>http://edge.audio.3qsdn.com/5939_twjx732yFMfvzPY</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png</logo>
+  </media>
+  <media name="nice URBAN">
+    <group>true</group>
+    <link>http://edge.audio.3qsdn.com/DKrFftd7QJWmGgy</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png</logo>
+  </media>
+  <media name="oldenburg eins">
+    <group>true</group>
+    <link>http://radio.oeins.de:8000/oeins</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oldenburgeins.png</logo>
+  </media>
+  <media name="Ostseewelle HIT-RADIO">
+    <group>true</group>
+    <link>http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ostseewelle.png</logo>
+  </media>
+  <media name="planet radio">
+    <group>true</group>
+    <link>http://mp3.planetradio.de/planetradio/hqlivestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png</logo>
+  </media>
+  <media name="PULS">
+    <group>true</group>
+    <link>http://br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png</logo>
+  </media>
+  <media name="Radio 7">
+    <group>true</group>
+    <link>http://stream.radio7.de/stream1/livestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png</logo>
+  </media>
+  <media name="Radio 90.1">
+    <group>true</group>
+    <link>http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png</logo>
+  </media>
+  <media name="radio B2">
+    <group>true</group>
+    <link>http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png</logo>
+  </media>
+  <media name="RADIO BOB!">
+    <group>true</group>
+    <link>http://streams.radiobob.de/bob-live/mp3-192/mediaplayer</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png</logo>
+  </media>
+  <media name="Radio Brocken">
+    <group>true</group>
+    <link>http://stream.radiobrocken.de/live/mp3-256</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobrocken.png</logo>
+  </media>
+  <media name="RADIO ENERGY Sachsen">
+    <group>true</group>
+    <link>http://185.52.127.159/de/33013/mp3_128.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png</logo>
+  </media>
+  <media name="Radio Regenbogen">
+    <group>true</group>
+    <link>http://streams.regenbogen.de/rr-mannheim-128-mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioregenbogen.png</logo>
+  </media>
+  <media name="radio SAW">
+    <group>true</group>
+    <link>http://stream.radiosaw.de</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosaw.png</logo>
+  </media>
+  <media name="radio TOP 40">
+    <group>true</group>
+    <link>http://stream.radiotop40.de/live/mp3-192</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotop40.png</logo>
+  </media>
+  <media name="Radio TEDDY">
+    <group>true</group>
+    <link>http://217.160.14.96:8000/intro.radioteddy.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png</logo>
+  </media>
+  <media name="radioBERLIN 88.8">
+    <group>true</group>
+    <link>http://rbb-radioberlin-live.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioberlin888.png</logo>
+  </media>
+  <media name="radioeins">
+    <group>true</group>
+    <link>http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png</logo>
+  </media>
+  <media name="reboot.fm">
+    <group>true</group>
+    <link>http://87.118.122.220:8002/stream</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png</logo>
+  </media>
+  <media name="ROCK ANTENNE">
+    <group>true</group>
+    <link>http://mp3channels.webradio.rockantenne.de/rockantenne</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png</logo>
+  </media>
+  <media name="Rockland Radio">
+    <group>true</group>
+    <link>http://188.94.97.90/rockland.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png</logo>
+  </media>
+  <media name="ROCKLAND.FM">
+    <group>true</group>
+    <link>http://stream.rockland-digital.de</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png</logo>
+  </media>
+  <media name="RPR1">
+    <group>true</group>
+    <link>http://streams.rpr1.de/rpr-koeln-128-mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png</logo>
+  </media>
+  <media name="RTF.3">
+    <group>true</group>
+    <link>http://37.187.93.104:8414/stream</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png</logo>
+  </media>
+  <media name="SR 1 Europawelle">
+    <group>true</group>
+    <link>http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png</logo>
+  </media>
+  <media name="SR 2 Kulturradio">
+    <group>true</group>
+    <link>http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr2kulturradio.png</logo>
+  </media>
+  <media name="SR 3 Saarlandwelle">
+    <group>true</group>
+    <link>http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png</logo>
+  </media>
+  <media name="sunshine live">
+    <group>true</group>
+    <link>http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png</logo>
+  </media>
+  <media name="SWR1 Baden-W??rttemberg">
+    <group>true</group>
+    <link>http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1bw.png</logo>
+  </media>
+  <media name="SWR1 Rheinland-Pfalz">
+    <group>true</group>
+    <link>http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1rp.png</logo>
+  </media>
+  <media name="SWR2">
+    <group>true</group>
+    <link>http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr2.png</logo>
+  </media>
+  <media name="SWR3">
+    <group>true</group>
+    <link>http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png</logo>
+  </media>
+  <media name="SWR4 Baden-W??rttemberg">
+    <group>true</group>
+    <link>http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4bw.png</logo>
+  </media>
+  <media name="SWR4 Rheinland-Pfalz">
+    <group>true</group>
+    <link>http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4rp.png</logo>
+  </media>
+  <media name="UNSERDING">
+    <group>true</group>
+    <link>http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png</logo>
+  </media>
+  <media name="WDR 2">
+    <group>true</group>
+    <link>http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr2.png</logo>
+  </media>
+  <media name="WDR 3">
+    <group>true</group>
+    <link>http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr3.png</logo>
+  </media>
+  <media name="WDR 4">
+    <group>true</group>
+    <link>http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr4.png</logo>
+  </media>
+  <media name="WDR 5">
+    <group>true</group>
+    <link>http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr5.png</logo>
+  </media>
+  <media name="YOU FM">
+    <group>true</group>
+    <link>http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png</logo>
+  </media>
+  <media name="YOU FM Club">
+    <group>true</group>
+    <link>http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png</logo>
+  </media>
+  <media name="YOU FM Just Music">
+    <group>true</group>
+    <link>http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png</logo>
+  </media>
+  <media name="YOU FM Sounds">
+    <group>true</group>
+    <link>http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png</logo>
+  </media>
+  <media name="FM4">
+    <group>true</group>
+    <link>http://mp3stream1.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png</logo>
+  </media>
+  <media name="Hitradio ??3">
+    <group>true</group>
+    <link>http://mp3stream7.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png</logo>
+  </media>
+  <media name="Klassik Radio">
+    <group>true</group>
+    <link>http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png</logo>
+  </media>
+  <media name="KRONEHIT">
+    <group>true</group>
+    <link>http://onair.krone.at:80/kronehit.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png</logo>
+  </media>
+  <media name="KRONEHIT Dance">
+    <group>true</group>
+    <link>http://onair.krone.at:80/kronehit-dance.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png</logo>
+  </media>
+  <media name="Life Radio">
+    <group>true</group>
+    <link>http://liferadio.stream.kapper.net:8000/liferadio</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png</logo>
+  </media>
+  <media name="??1">
+    <group>true</group>
+    <link>http://mp3stream3.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png</logo>
+  </media>
+  <media name="??1 Campus">
+    <group>true</group>
+    <link>http://mp3stream4.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png</logo>
+  </media>
+  <media name="Radio Nieder??sterreich">
+    <group>true</group>
+    <link>http://mp3stream8.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png</logo>
+  </media>
+  <media name="Radio Steiermark">
+    <group>true</group>
+    <link>http://mp3stream9.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png</logo>
+  </media>
+  <media name="Radio Tirol">
+    <group>true</group>
+    <link>http://mp3stream10.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png</logo>
+  </media>
+  <media name="Radio Wien">
+    <group>true</group>
+    <link>http://mp3stream2.apasf.apa.at:8000/</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png</logo>
+  </media>
+  <media name="Radio SRF 1">
+    <group>true</group>
+    <link>http://stream.srg-ssr.ch/m/drs1/mp3_128</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png</logo>
+  </media>
+  <media name="Radio SRF 2 Kultur">
+    <group>true</group>
+    <link>http://stream.srg-ssr.ch/m/drs2/mp3_128</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png</logo>
+  </media>
+  <media name="Radio SRF 3">
+    <group>true</group>
+    <link>http://stream.srg-ssr.ch/m/drs3/mp3_128</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png</logo>
+  </media>
+  <media name="Radio SRF 4 News">
+    <group>true</group>
+    <link>http://stream.srg-ssr.ch/m/drs4news/mp3_128</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png</logo>
+  </media>
+  <media name="Radio SRF Musikwelle">
+    <group>true</group>
+    <link>http://stream.srg-ssr.ch/m/drsmw/mp3_128</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png</logo>
+  </media>
+  <media name="Radio SRF Virus">
+    <group>true</group>
+    <link>http://stream.srg-ssr.ch/m/drsvirus/mp3_128</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png</logo>
+  </media>
+  <media name="BBC Asian Network">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png</logo>
+  </media>
+  <media name="BBC Radio 1">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png</logo>
+  </media>
+  <media name="BBC Radio 1Xtra">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png</logo>
+  </media>
+  <media name="BBC Radio 2">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png</logo>
+  </media>
+  <media name="BBC Radio 3">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png</logo>
+  </media>
+  <media name="BBC Radio 4">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png</logo>
+  </media>
+  <media name="BBC Radio 4 Extra">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png</logo>
+  </media>
+  <media name="BBC Radio 5 Live">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png</logo>
+  </media>
+  <media name="BBC Radio 6 Music">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png</logo>
+  </media>
+  <media name="BBC Radio Cymru">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png</logo>
+  </media>
+  <media name="BBC Radio Foyle">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png</logo>
+  </media>
+  <media name="BBC Radio nan G??idheal">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png</logo>
+  </media>
+  <media name="BBC Radio Scotland">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png</logo>
+  </media>
+  <media name="BBC Radio Ulster">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png</logo>
+  </media>
+  <media name="BBC Radio Wales">
+    <group>true</group>
+    <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png</logo>
+  </media>
+  <media name="BBC World Service">
+    <group>true</group>
+    <link>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png</logo>
+  </media>
+  <media name="Mouv'">
+    <group>true</group>
+    <link>http://direct.mouv.fr/live/mouv-midfi.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png</logo>
+  </media>
+  <media name="Radio Nova">
+    <group>true</group>
+    <link>http://broadcast.infomaniak.net/radionova-high.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png</logo>
+  </media>
+  <media name="HitRadio Veronica">
+    <group>true</group>
+    <link>http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioveronica.png</logo>
+  </media>
+  <media name="Radio 538">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/RADIO538_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Dance Radio">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB10_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Dance Department">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB01_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Global Dance Chart">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB05_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Hitzone">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB11_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Ibiza">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB19_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Non-Stop">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB09_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Party">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB16_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Top 40 Radio">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB02_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio 538 Verr??ckte Stunde">
+    <group>true</group>
+    <link>http://vip-icecast.538.lw.triple-it.nl/WEB21_MP3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png</logo>
+  </media>
+  <media name="Radio Veronica">
+    <group>true</group>
+    <link>http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioveronica.png</logo>
+  </media>
+  <media name="Sky Radio 101 FM">
+    <group>true</group>
+    <link>http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/skyradio101fm.png</logo>
+  </media>
+  <media name="Planeta FM">
+    <group>true</group>
+    <link>http://pla01.cdn.eurozet.pl:8700/pla-net.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png</logo>
+  </media>
+  <media name="Planeta FM Dope Hits">
+    <group>true</group>
+    <link>http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png</logo>
+  </media>
+  <media name="Planeta FM Electronic Wave">
+    <group>true</group>
+    <link>http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png</logo>
+  </media>
+  <media name="Planeta FM Good Vibes">
+    <group>true</group>
+    <link>http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png</logo>
+  </media>
+  <media name="Planeta FM Indie Day Mood">
+    <group>true</group>
+    <link>http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png</logo>
+  </media>
+  <media name="Radio ZET">
+    <group>true</group>
+    <link>http://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET 2000">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZET200.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET 80">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZET080.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET 90">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZET090.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET Dance">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZETDAN.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET Hits">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZETHIT.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET Hot">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZETHOT.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET Party">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZETPAR.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET PL">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZETPL1.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="Radio ZET Rock">
+    <group>true</group>
+    <link>http://zet.cdn.eurozet.pl/ZETROK.mp3</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png</logo>
+  </media>
+  <media name="RMF FM">
+    <group>true</group>
+    <link>http://195.150.20.243/RMFFM48</link>
+    <logo>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png</logo>
+  </media>
+</ArrayOfMedia>

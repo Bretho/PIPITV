@@ -8,8 +8,8 @@ namespace PIPITV
 {
     class IOController
     {
+        // Erstellt eine neue Instance
         private static IOController _instance;
-
         public static IOController instance
         {
             get
@@ -20,8 +20,8 @@ namespace PIPITV
             }
         }
 
+        //  Erstellt Manager (propfull)
         private mediaManager _m1 = new mediaManager();
-
         public mediaManager m1
         {
             get { return _m1; }
@@ -29,19 +29,17 @@ namespace PIPITV
         }
 
         private CSV_Converter _csv = new CSV_Converter();
-
         public CSV_Converter csv
         {
             get { return _csv; }
             set { _csv = value; }
         }
 
-        private MediaListSerializer _martin = new MediaListSerializer();
-
-        public MediaListSerializer martin
+        private MediaListSerializer _mls = new MediaListSerializer();
+        public MediaListSerializer mls
         {
-            get { return _martin; }
-            set { _martin = value; }
+            get { return _mls; }
+            set { _mls = value; }
         }
 
     }
