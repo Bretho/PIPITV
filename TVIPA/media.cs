@@ -7,7 +7,8 @@ using System.Xml;
 using System.Xml.Serialization;
 
 namespace PIPITV
-{ //[XmlRoot("media")]   <----- das muss nur wenns in der xml anders heißt.
+{
+    //[XmlRoot("media")]  <----- das muss nur wenns in der xml anders heißt.
     public class media
     {
         // Wann Attribute und wann Element? hier ist die Antwort!!!

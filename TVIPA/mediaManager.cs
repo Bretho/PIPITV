@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace PIPITV
 {

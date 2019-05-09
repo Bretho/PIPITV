@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 using System.Xml.Serialization; // Important
 using System.IO; // Important
 
@@ -26,8 +27,9 @@ namespace PIPITV
             List<media> medialist = new List<media>();  // Erstellt neue MediaList
             // Erstellt einen neuen serializer vom Typ List
             XmlSerializer serializer = new XmlSerializer(typeof(List<media>));  
-            StreamReader leser = new StreamReader(filepath);     // Erstellt einen neuen StreamReader
-            medialist = (List<media>)serializer.Deserialize(leser);  // (Casted) Wandelt 
+            StreamReader leser = new StreamReader(filepath);     // Erstellt einen neuen StreamReader  
+            object obj = serializer.Deserialize(leser);  // (Casted) Wandelt 
+            medialist = (List<media>)obj;
             leser.Close();  // Schließt die Datei
             return medialist;   // Gibt den Inhalt der medialist zurück
         }
